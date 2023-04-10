@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/56063563/230831529-b472cc89-826a-4deb-ae63-ba2ca9008242.png)]
+![MasterHead](https://user-images.githubusercontent.com/56063563/230831529-b472cc89-826a-4deb-ae63-ba2ca9008242.png)
  
 <h1 align="center">Hi 👋, I'm Prafull Gangrade </h1>
 <h3 align="center">A Passionate Data Enthusiast </h3>
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/prafull-gangrade-a2077716a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prafull-gangrade-a2077716a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/prafull-gangrade-a2077716a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prafull-gangrade-a2077716a/" height="30" width="40" /></a>
 <a href="https://www.novypro.com/profile_projects/prafullgangrade" target="blank"><img align="center" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1660814096909x502745365069615900%2FnovyPro%2520Logo%2520a%2520PowerBI%2520portfolio%2520builder.png?w=&h=&auto=compress&dpr=1&fit=max" alt="PrafullGangrade" height="30" width="40" /></a>
 </p>
 
