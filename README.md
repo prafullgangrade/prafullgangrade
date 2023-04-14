@@ -53,7 +53,7 @@
   Details : 
   The main objective of this project is to analyze the tourism data of Telangana, a state in India, and to identify the trends and patterns in the data using Python.     The data set used in this project is obtained from the Telangana Tourism website, which contains information about the number of tourists visiting different tourist   destinations in the state.
   
-  **link** https://github.com/prafullgangrade/Tourism-Data-analysis-with-python.git
+  **link** : https://github.com/prafullgangrade/Tourism-Data-analysis-with-python.git
   
 **Power BI**
 
