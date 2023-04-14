@@ -35,9 +35,12 @@
 
   In this Task I try to solve and answer all query related to this task and find insights from data for answer a few simple questions about his customers, especially     about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help   him deliver a better and more personalised experience for his loyal customers.
   
-- Project 2 : ()
-  Details : 
+- Project 2 : https://github.com/prafullgangrade/Pizza-Runner_SQL_challange-2.git
 
+  **Details : Here is the link of SQL challange Case Study #2 Pizza runner** https://8weeksqlchallenge.com/case-study-2/
+  
+  In this Task I try to solve and answer all query related to this task and find insights from data for answer a few simple questions about pizza quantity ordered, unique customer, successful order, type of pizza delivered, maximum nuber of pizza in single order, etc. type of insight i try to find and answer them with sql query.
+  
 **Python**
 
 - Project 1 :  ()
