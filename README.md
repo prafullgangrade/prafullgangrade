@@ -26,10 +26,16 @@
 
 **SQL**
 
-- Project 1 :  ()
-  Details : 
+- Project 1 :  https://github.com/prafullgangrade/Danny-s-Dinner_SQL_Challenge-1.git
   
-- Project 2 :
+  **Details : Here is the link of SQL challange Case Study #1 - Danny's Diner**
+            https://8weeksqlchallenge.com/case-study-1/
+  
+  **Introduction**
+
+  In this Task I try to solve and answer all query related to this task and find insights from data for answer a few simple questions about his customers, especially     about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help   him deliver a better and more personalised experience for his loyal customers.
+  
+- Project 2 : ()
   Details : 
 
 **Python**
