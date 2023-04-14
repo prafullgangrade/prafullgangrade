@@ -57,15 +57,7 @@
   
 **Power BI**
 
-- Project 1 :  ()
-  Details : 
-  
-- Project 2 :
-  Details : 
-  
-**Tableau**
-
-- Project 1 :  ()
+- Project 1 : 
   Details : 
   
 - Project 2 :
