@@ -43,9 +43,11 @@
   
 **Python**
 
-**Project 1** : 
-- Details :
- The goal of this project is to identify trends in call center performance over time, analyze factors that contribute to high or low performance, and generate         insights to help call center managers make data-driven decisions to improve their operations.
+   **Project 1** : 
+   - Details :
+     The goal of this project is to identify trends in call center performance over time, analyze factors that contribute to high or low performance, and generate          insights to help call center managers make data-driven decisions to improve their operations.
+    
+     **link** : https://github.com/prafullgangrade/Call-Center-Trends-Analysis-using-Python.git
   
 - Project 2 :
   Details : 
