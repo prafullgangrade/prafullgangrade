@@ -35,7 +35,7 @@
 
   In this Task I try to solve and answer all query related to this task and find insights from data for answer a few simple questions about his customers, especially     about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with customers will help   to deliver a better and more personalised experience for loyal customers.
   
-  **link** : https://github.com/prafullgangrade/Danny-s-Dinner_SQL_Challenge-1.git
+  **Link** : https://github.com/prafullgangrade/Danny-s-Dinner_SQL_Challenge-1.git
   
 - **Project 2** : **SQL challange Case Study #2 Pizza runner**
 
@@ -43,7 +43,7 @@
   
   In this Task I try to solve and answer all query related to this task and find insights from data for answer a few simple questions about pizza quantity ordered, unique customer, successful order, type of pizza delivered, maximum nuber of pizza in single order, etc. type of insight i try to find and answer them with sql query.
   
-  **link** : https://github.com/prafullgangrade/Pizza-Runner_SQL_challange-2.git
+  **Link** : https://github.com/prafullgangrade/Pizza-Runner_SQL_challange-2.git
   
 **Python**
 
