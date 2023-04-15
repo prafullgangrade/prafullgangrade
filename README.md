@@ -33,7 +33,7 @@
   
   **Introduction**
 
-  In this Task I try to solve and answer all query related to this task and find insights from data for answer a few simple questions about his customers, especially     about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help   him deliver a better and more personalised experience for his loyal customers.
+  In this Task I try to solve and answer all query related to this task and find insights from data for answer a few simple questions about his customers, especially     about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with customers will help   to deliver a better and more personalised experience for his loyal customers.
   
 - **Project 2** : https://github.com/prafullgangrade/Pizza-Runner_SQL_challange-2.git
 
