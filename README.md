@@ -26,7 +26,7 @@
 
 **SQL**
 
-- Project 1 :  https://github.com/prafullgangrade/Danny-s-Dinner_SQL_Challenge-1.git
+- **Project 1** :  https://github.com/prafullgangrade/Danny-s-Dinner_SQL_Challenge-1.git
   
   **Details : Here is the link of SQL challange Case Study #1 - Danny's Diner**
             https://8weeksqlchallenge.com/case-study-1/
@@ -35,7 +35,7 @@
 
   In this Task I try to solve and answer all query related to this task and find insights from data for answer a few simple questions about his customers, especially     about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help   him deliver a better and more personalised experience for his loyal customers.
   
-- Project 2 : https://github.com/prafullgangrade/Pizza-Runner_SQL_challange-2.git
+- **Project 2** : https://github.com/prafullgangrade/Pizza-Runner_SQL_challange-2.git
 
   **Details : Here is the link of SQL challange Case Study #2 Pizza runner** https://8weeksqlchallenge.com/case-study-2/
   
@@ -43,30 +43,34 @@
   
 **Python**
 
-   **Project 1** : 
-   - Details :
-     The goal of this project is to identify trends in call center performance over time, analyze factors that contribute to high or low performance, and generate          insights to help call center managers make data-driven decisions to improve their operations.
-    
-     **link** : https://github.com/prafullgangrade/Call-Center-Trends-Analysis-using-Python.git
+ - **Project 1** : Call center performance analysis
   
-- **Project 2** :
-  Details : 
+   **Details :**
+   The goal of this project is to identify trends in call center performance over time, analyze factors that contribute to high or low performance, and generate insights to help call center managers make data-driven decisions to improve their operations.
+
+   **Link** : https://github.com/prafullgangrade/Call-Center-Trends-Analysis-using-Python.git
+  
+- **Project 2** : Tourism data analysis of Telangana State(India)
+  
+  **Details :** 
   The main objective of this project is to analyze the tourism data of Telangana, a state in India, and to identify the trends and patterns in the data using Python.     The data set used in this project is obtained from the Telangana Tourism website, which contains information about the number of tourists visiting different tourist   destinations in the state.
   
-  **link** : https://github.com/prafullgangrade/Tourism-Data-analysis-with-python.git
+  **Link** : https://github.com/prafullgangrade/Tourism-Data-analysis-with-python.git
   
 **Power BI**
 
-- Project 1 : 
-  Details : 
+- **Project 1** : HR data analysis dashboard
+  
+  **Details :** 
   
   A HR data analysis dashboard in Power BI is a visual tool that helps human resources professionals to track and analyze various metrics related to employee             performance, recruitment, retention, and overall workforce management.  
   
-  link : https://github.com/prafullgangrade/Hr_data_analysis_PowerBi.git
+  **Link** https://github.com/prafullgangrade/Hr_data_analysis_PowerBi.git
   
-- Project 2 :
-  Details : 
+- **Project 2** : Financial analysis Power BI dashboard
+  
+  **Details :** 
   
   A financial analysis Power BI dashboard is a visual representation of financial data that provides a clear and concise overview of an organization's financial    health. It allows users to quickly and easily analyze financial data and identify trends, anomalies, and areas of concern.
   
-  links https://github.com/prafullgangrade/Financial_Analaysis_power_bi.git
+  **Link :** https://github.com/prafullgangrade/Financial_Analaysis_power_bi.git
